@@ -1,0 +1,2 @@
+train.npy : https://drive.google.com/file/d/1Mal6IrcgAEHS3hNWaZ-Gc-T74TqYkMyl/view?usp=sharing
+test.npy : https://drive.google.com/file/d/1Jw8LnLD-NVOFE42FYLTIiy8s7edavaqZ/view?usp=sharing
